@@ -1,0 +1,13 @@
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\obj\Debug\netcoreapp3.1\BitmapGenerator.csprojAssemblyReference.cache
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\obj\Debug\netcoreapp3.1\BitmapGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\obj\Debug\netcoreapp3.1\BitmapGenerator.AssemblyInfoInputs.cache
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\obj\Debug\netcoreapp3.1\BitmapGenerator.AssemblyInfo.cs
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\bin\Debug\netcoreapp3.1\BitmapGenerator.exe
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\bin\Debug\netcoreapp3.1\BitmapGenerator.deps.json
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\bin\Debug\netcoreapp3.1\BitmapGenerator.runtimeconfig.json
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\bin\Debug\netcoreapp3.1\BitmapGenerator.runtimeconfig.dev.json
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\bin\Debug\netcoreapp3.1\BitmapGenerator.dll
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\bin\Debug\netcoreapp3.1\BitmapGenerator.pdb
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\obj\Debug\netcoreapp3.1\BitmapGenerator.dll
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\obj\Debug\netcoreapp3.1\BitmapGenerator.pdb
+C:\Users\Alessandro Di Cicco\Desktop\BitmapGenerator\obj\Debug\netcoreapp3.1\BitmapGenerator.genruntimeconfig.cache
